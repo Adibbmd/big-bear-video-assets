@@ -10,7 +10,7 @@ services:
     image: redis:latest
 
     # Assign a custom name to the running container.
-    container_name: big-bear-redis
+    container_name: Atna86k-redis
 
     # Map ports between the host and the container.
     # Host port is on the left (6379) and container port is on the right (6379).
